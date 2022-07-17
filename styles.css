@@ -1,0 +1,77 @@
+@font-face {
+  font-family: "Manrope-regular";
+  src: url("fonts/Manrope-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Manrope-bold";
+  src: url("fonts/Manrope-Bold.ttf") format("truetype");
+}
+
+.greeting {
+  font-family: 'Manrope-regular';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  color: #000000;
+  opacity: 0.7;
+}
+
+.headline {
+  font-family: 'Manrope-bold';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 33px;
+  color: #242637;
+}
+
+.info-field {
+  font-family: 'Manrope-bold';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 12px;
+  line-height: 16px;
+  text-transform: uppercase;
+  color: #2E2E49;
+  text-align: left;
+}
+
+.info-value{
+  font-family: 'Manrope-bold';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 19px;
+  text-transform: capitalize;
+  color: #2E2E49;
+  opacity: 0.8;
+}
+
+.rgds-1 {
+  font-family: 'Manrope-regular';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+  color: #242637;
+  opacity: 0.8;
+}
+
+.rgds-2 {
+  font-family: 'Manrope-regular';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 22px;
+  color: #57C7D4;
+}
+.motto {
+  font-family: 'Manrope-regular';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  color: #242637;
+}
